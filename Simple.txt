@@ -1,1 +1,2 @@
 THis is just simple txt file.
+This is the second line
